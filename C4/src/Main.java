@@ -30,7 +30,7 @@ public class Main {
 
          */
 
-        System.out.println("Wins: " + 993 + "\nLosses: " + 7 + "\nDraws: " + 0
-                + "\nOutcome: " + 933 / (double) 1000 * 100 + "%");
+        System.out.println("Wins: " + me + "\nLosses: " + them + "\nDraws: " + draw
+                + "\nOutcome: " + me / (double) 1000 * 100 + "%");
     }
 }
